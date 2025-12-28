@@ -1,0 +1,16 @@
+.header {
+    background: #fff;
+}
+
+.header_inner {
+    margin: 0 auto;
+    padding: 5px 5px;
+    max-width: 1230px;
+}
+
+.header_logo {
+    color: yellow;
+    text-decoration: none;
+    font-family: "Merriweather", serif;
+    font-size: 40px;
+}

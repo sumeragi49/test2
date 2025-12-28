@@ -1,0 +1,52 @@
+.register-form_content {
+    margin: 0 auto;
+    padding: 30px 15px;
+    background: #ddd;
+}
+
+.register-form_heading {
+    margin-bottom: 40px;
+    text-align: left;
+}
+
+.form {
+    margin: 0 auto;
+    width: 100%;
+    background: #ddd;
+}
+
+.form_group {
+    display: block;
+    justify-content: space-between;
+    margin-bottom: 15px;
+}
+
+.form_label--required {
+    margin-left: 5px;
+    padding: 2px 3px;
+    border-radius: 3px;
+    background: #ff0000;
+    color: #ffffff;
+}
+
+.form_error {
+    height: 20px;
+    color: #ff0000;
+    text-align: left;
+}
+
+.form_input--text input,
+.form-input--image input,
+.form_input--textarea textarea {
+    margin-top: 15px;
+    padding: 10px;
+    width: 600px;
+    border: 1px solid #ddd;
+    border-radius: 3px;
+
+    appearance: none;
+}
+
+.form_input--text input {
+    height: 40px;
+}
